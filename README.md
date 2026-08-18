@@ -123,7 +123,7 @@ La situación actual contempla tiempos aproximados de entre **1 y 7 días**, mie
 Proyecto desarrollado por estudiantes de Ingeniería en Informática — Duoc UC.
 
 - Alejandro Rojas
-- [Integrante 2]
+- Vicente Abarzúa
 - [Integrante 3]
 
 ##  Estado del proyecto
