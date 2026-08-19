@@ -52,21 +52,6 @@ Entre las funcionalidades consideradas para el proyecto se encuentran:
 - Consultor Veterinario basado en IA.
 - Reportes exportables.
 
-##  Arquitectura general
-
-Fuentes de información
-        ↓
-Agentes de recopilación
-        ↓
-Procesamiento de datos
-        ↓
-Almacenamiento
-        ↓
-Motor de análisis y alertas
-        ↓
-API Backend
-        ↓
-Dashboard / Visualización
 
 ##  Tecnologías
 
@@ -124,7 +109,7 @@ Proyecto desarrollado por estudiantes de Ingeniería en Informática — Duoc UC
 
 - Alejandro Rojas
 - Vicente Abarzúa
-- [Integrante 3]
+- Gabriel Rubilar
 
 ##  Estado del proyecto
 
