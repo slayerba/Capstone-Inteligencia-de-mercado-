@@ -93,6 +93,7 @@ Actualmente el equipo se encuentra en etapa de análisis, planificación y revis
 ##  Contexto académico
 
 Proyecto Capstone Grupo 9
+
 Ingeniería en Informática  
 Duoc UC  
 Segundo semestre — 2026
