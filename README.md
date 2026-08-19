@@ -53,36 +53,9 @@ Entre las funcionalidades consideradas para el proyecto se encuentran:
 - Reportes exportables.
 
 
-##  Tecnologías
+##  Tecnologías: POR DEFINIR
 
-Según la arquitectura base del proyecto:
 
-### Frontend
-- React
-- TypeScript
-
-### Backend
-- Python
-- FastAPI
-
-### Google Cloud Platform
-- Firestore
-- Cloud Run
-- Cloud Scheduler
-- Cloud Tasks
-- Vertex AI / Gemini
-
-### Seguridad
-- Keycloak
-- OAuth 2.0 / OIDC
-- JWT
-- RBAC
-
-### DevOps
-- Git
-- GitHub
-- GitHub Actions
-- CI/CD
 
 ##  Enfoque de Analítica
 
